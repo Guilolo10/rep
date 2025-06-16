@@ -29,7 +29,7 @@ do{
 
 	else if (operaçao == '*') {
 	     resultado = multipicar(num1,num2);
-	     printf(re
+	     printf("resultado:%.2f\n");
 
 
 	
