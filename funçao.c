@@ -1,4 +1,4 @@
-#include "funcoes.h"
+#include "funcao.h"
 
 float somar(float a, float b) {
     return a + b;
